@@ -1,0 +1,41 @@
+@font-face{
+	font-family: "Lora-VariableFont_wght";
+	src: url(../fonts/Lora-VariableFont_wght.ttf);
+
+}
+
+/* career Section */
+.col-md-8 h1{
+font-size: 60px;
+}
+
+
+
+
+
+
+
+#aboutus{
+	font-size: 100px;
+}
+
+.about-text h5 p{
+	font-family: "Lora-VariableFont_wght";
+}
+
+nav {
+  position: sticky;
+  top: 0;
+  
+}
+
+#carouselExampleIndicators{
+	position: relative;
+	width: 100%;
+	overflow:hidden;
+	height: 860px;
+	
+}
+
+
+
